@@ -51,7 +51,7 @@
   \item{names.co}{IDs of the control units}
   \item{Ttot}{the set of all time periods.}
   \item{Tpre}{the set of pre-treatment periods.}
-  \item{Tpre}{the set of post-treatment periods.}
+  \item{Tpst}{the set of post-treatment periods.}
   \item{T0}{a vector that stores the timing of the treatment.}
   \item{N}{the total number of units.}
   \item{Ntr}{the number of treated units.}
